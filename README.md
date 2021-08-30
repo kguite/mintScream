@@ -1,7 +1,8 @@
+
 <!-- PROJECT LOGO -->
 <br />
-  <div>
-    <img align="center" src="https://user-images.githubusercontent.com/33885541/131379543-aef0b926-bf16-46b4-9c26-72efacecb1ec.png" width="1200" height="600"/>
+  <div align="center">
+    <img align="center" src="https://user-images.githubusercontent.com/33885541/131386492-47343d2c-e122-477c-8493-0673b91e7582.png" width="600" height="600"/>
 </div>
 
   <h3 align="center">Mint Scream!</h3>
